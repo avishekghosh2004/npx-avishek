@@ -18,6 +18,7 @@
   "author": "Avishek Ghosh",
   "license": "ISC",
   "dependencies": {
+    "avishek": "file:",
     "boxen": "^8.0.1",
     "chalk": "^5.3.0",
     "nodemon": "^3.1.7"
